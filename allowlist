@@ -1,3 +1,4 @@
+# Allow list used for AdGuardHome
 bifrost-api.hotstar.com
 geolocation.onetrust.com
 @@||hotstar.com$document
